@@ -13,21 +13,21 @@ namespace math
         float z;
     };
 
-    struct Polar2 {
+    struct Polar {
         float radius;
         float theta;
     };
 
-    struct Polar3 {
+    struct Spherical {
         float radius;
         float theta;
         float phi;
     };
 
-    Cartesian2 PolarToCartesian(Polar2 p);
-    Cartesian3 PolarToCartesian(Polar3 p);
+    Cartesian2 PolarToCartesian(Polar p);
+    Cartesian3 SphericalToCartesian(Spherical p);
 
-    Polar2 CartesianToPolar(Cartesian2 c);
-    Polar3 CartesianToPolar(Cartesian3 c);
+    Polar CartesianToPolar(Cartesian2 c);
+    Spherical CartesianToPolar(Cartesian3 c);
     
 } // namespace math

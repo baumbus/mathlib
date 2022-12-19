@@ -1,0 +1,6 @@
+/home/baumbus/repos/mathlib/build/CMakeFiles/test.dir
+/home/baumbus/repos/mathlib/build/CMakeFiles/edit_cache.dir
+/home/baumbus/repos/mathlib/build/CMakeFiles/rebuild_cache.dir
+/home/baumbus/repos/mathlib/build/math/CMakeFiles/math.dir
+/home/baumbus/repos/mathlib/build/math/CMakeFiles/edit_cache.dir
+/home/baumbus/repos/mathlib/build/math/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/baumbus/repos/mathlib/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/test.dir/test.cpp.o -c /home/baumbus/repos/mathlib/test.cpp",
+  "file": "/home/baumbus/repos/mathlib/test.cpp"
+},
+{
+  "directory": "/home/baumbus/repos/mathlib/build/math",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/math.dir/coords.cpp.o -c /home/baumbus/repos/mathlib/math/coords.cpp",
+  "file": "/home/baumbus/repos/mathlib/math/coords.cpp"
+}
+]

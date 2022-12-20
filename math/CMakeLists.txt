@@ -1,5 +1,5 @@
 add_library(
     math
-    coords.hpp
-    coords.cpp
+    math.hpp
+    math.cpp
 )

@@ -3,6 +3,7 @@ project(math)
 add_library(
     math
     coordinates.hpp
+    polynomial.hpp
     vector.hpp
 )
 

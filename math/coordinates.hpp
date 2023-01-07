@@ -4,10 +4,7 @@
 
 #include <cmath>
 
-namespace math
-{
-    
-
+namespace math {
     class Cartesian2D;
     class Polar;
     class Cartesian3D;

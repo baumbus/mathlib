@@ -4,13 +4,14 @@
 #include "math/vector.hpp"
 #include "math/polynomial.hpp"
 
-using namespace math;
-
 int main() {
-    
-    Linear f{2, 0};
-    Linear g{3, 0};
-    Linear h = f + g;
+    using std::cout;
+
+    math::Linear f{2, 0};
+    math::Linear g{3, 0};
+    math::Linear h = f + g;
+
+    cout << h(123) << '\n';
 
     return 0;
 }

@@ -1,7 +1,6 @@
 #pragma once
 
-namespace math
-{
+namespace math {
     struct Vec2 {
         float x, y;
     };
